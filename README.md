@@ -1,4 +1,4 @@
-# 
+## 
 
 **`Full Stack Developer | Python Enjoyer | Automations, Bots & Systems`**
 
@@ -8,7 +8,7 @@ Trabalho com desenvolvimento de **sites, sistemas, bots, automações, APIs, pai
 
 Tenho uma queda forte por **Python**, mas também transito bem entre frontend, backend, banco de dados, servidores e aquele universo maravilhoso onde “na minha máquina funciona” vira investigação criminal.
 
-🇺🇸 Hi! I'm **Emanuell**, a Brazilian Full Stack Developer who builds web apps, systems, bots, automations, APIs, admin dashboards, integrations, and AI-powered solutions.
+🇬🇧 Hi! I'm **Emanuell**, a Brazilian Full Stack Developer who builds web apps, systems, bots, automations, APIs, admin dashboards, integrations, and AI-powered solutions.
 
 I enjoy writing clean, practical, scalable code — or at least code that future me will not immediately hate.  
 Python is my favorite language, but I also work across frontend, backend, databases, servers, and all the mysterious layers between a button click and production catching fire.
@@ -50,25 +50,56 @@ Python is my favorite language, but I also work across frontend, backend, databa
 
 ## 🧠 Sobre mim
 
-```python
-class Emanuell:
-    role = "Full Stack Developer"
-    favorite_language = "Python"
-    location = "Portugal"
-    origin = "Brasil 🇧🇷"
-
-    currently_building = [
-        "web systems",
-        "bots",
-        "automations",
-        "APIs",
-        "admin panels",
-        "AI experiments",
-        "things I will probably refactor at 3AM",
-    ]
-
-    mindset = "solve problems, ship projects, avoid unnecessary drama in production"
-```
+<table>
+  <tr>
+    <td>
+      <strong>👨🏻‍💻 Role</strong>
+    </td>
+    <td>
+      Full Stack Developer
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>🐍 Linguagem favorita</strong>
+    </td>
+    <td>
+      Python
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>📍 Localização</strong>
+    </td>
+    <td>
+      Madrid
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>🇧🇷 Origem</strong>
+    </td>
+    <td>
+      Brasil
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>🚀 Atualmente criando</strong>
+    </td>
+    <td>
+      Sistemas web, bots, automações, APIs, painéis administrativos e experimentos com IA
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>🧩 Mindset</strong>
+    </td>
+    <td>
+      Resolver problemas, entregar projetos e evitar drama desnecessário em produção
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -128,20 +159,4 @@ class Emanuell:
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="left">
-
-<img 
-  alt="GitHub Stats" 
-  height="180" 
-  src="https://github-readme-stats.vercel.app/api?username=ellitoloco&show_icons=true&theme=shadow_green&include_all_commits=true&locale=en" 
-/>
-
-<img 
-  alt="Top Languages" 
-  height="180" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellitoloco&theme=shadow_green&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-
-</div>
