@@ -45,26 +45,3 @@ Python is my favorite language, but I also work across frontend, backend, databa
         />
     </a>
 </p>
-
----
-
-## 🧠 Sobre mim
-
-```python
-class Emanuell:
-    role = "Full Stack Developer"
-    favorite_language = "Python"
-    location = "Portugal"
-    origin = "Brasil 🇧🇷"
-    
-    currently_building = [
-        "web systems",
-        "bots",
-        "automations",
-        "APIs",
-        "admin panels",
-        "AI experiments",
-        "things I will probably refactor at 3AM"
-    ]
-
-    mindset = "solve problems, ship projects, avoid unnecessary drama in production"
