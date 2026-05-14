@@ -1,10 +1,19 @@
-# 👨🏻‍💻 Emanuell
+# 👨🏻‍💻 Emanuell Blanco
 
-**`Desenvolvedor Full Stack | Full Stack Developer`**
+**`Full Stack Developer | Python Enjoyer | Automations, Bots & Systems`**
 
-🇧🇷 Olá! Me chamo **Emanuell**, sou desenvolvedor Full Stack com domínio em diversas linguagens e tecnologias. Tenho experiência na criação de soluções completas, do backend ao frontend, sempre focado em desempenho, acessibilidade e boas práticas de código.
+🇧🇷 Olá! Eu sou o **Emanuell**, desenvolvedor Full Stack brasileiro, mineiro por herança cósmica e programador por consequência de ter gostado demais de computadores antes de entender o tamanho do problema.
 
-🇺🇸 Hi there! I'm **Emanuell**, a Full Stack Developer with experience in multiple languages and technologies. I build complete solutions from backend to frontend, always focused on performance, accessibility, and clean code.
+Trabalho com desenvolvimento de **sites, sistemas, bots, automações, APIs, painéis administrativos, integrações, aplicações web/mobile e soluções com IA**. Gosto de construir coisas úteis, bem estruturadas e que não precisem de um ritual xamânico para dar deploy.
+
+Tenho uma queda forte por **Python**, mas também transito bem entre frontend, backend, banco de dados, servidores e aquele universo maravilhoso onde “na minha máquina funciona” vira investigação criminal.
+
+🇺🇸 Hi! I'm **Emanuell**, a Brazilian Full Stack Developer who builds web apps, systems, bots, automations, APIs, admin dashboards, integrations, and AI-powered solutions.
+
+I enjoy writing clean, practical, scalable code — or at least code that future me will not immediately hate.  
+Python is my favorite language, but I also work across frontend, backend, databases, servers, and all the mysterious layers between a button click and production catching fire.
+
+---
 
 <p align="left">
     <a href="https://www.youtube.com/@EmanuellBlanco?sub_confirmation=1">
@@ -17,203 +26,45 @@
     <a href="https://www.youtube.com/@EmanuellBlanco">
         <img 
             alt="youtube views" 
-            title="Vizualizações no YouTube" 
+            title="Visualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/ellitoloco?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/ellitoloco?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/ellitoloco?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/ellitoloco?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🧠 Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Android Studio" 
-    title="Android Studio"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Express" 
-    title="Express"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Nodemon" 
-    title="Nodemon"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" 
-/>
+```python
+class Emanuell:
+    role = "Full Stack Developer"
+    favorite_language = "Python"
+    location = "Portugal"
+    origin = "Brasil 🇧🇷"
+    
+    currently_building = [
+        "web systems",
+        "bots",
+        "automations",
+        "APIs",
+        "admin panels",
+        "AI experiments",
+        "things I will probably refactor at 3AM"
+    ]
 
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Selenium" 
-    title="Selenium"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Github Stats
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ellitoloco&show_icons=true&theme=shadow_green&include_all_commits=true&locale=en" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellitoloco&theme=shadow_green&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+    mindset = "solve problems, ship projects, avoid unnecessary drama in production"
