@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Emanuell Blanco
+# 
 
 **`Full Stack Developer | Python Enjoyer | Automations, Bots & Systems`**
 
