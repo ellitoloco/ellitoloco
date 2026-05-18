@@ -4,13 +4,13 @@
 
 Às vezes eu codifico.  
 Às vezes eu faço deploy rezando.  
-Na maioria das vezes dá certo. 🐍✨
+Na maioria das vezes dá certo. 
 
 🇬🇧 Brazilian dev who loves building cute, useful and slightly chaotic things with code.
 
 Sometimes I code.  
 Sometimes I deploy and pray.  
-Most of the time, it works. 🐍✨
+Most of the time, it works. 
 
 ---
 
