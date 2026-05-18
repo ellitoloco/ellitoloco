@@ -1,12 +1,12 @@
 ## Oi, eu sou o Emanuell 
 
-🇧🇷 Dev brasileiro, mineiro de alma e apaixonado por criar coisinhas que funcionam — sites, bots, automações, sistemas e umas ideias meio perigosas com Python.
+🇧🇷 Dev brasileiro, mineiro de alma e apaixonado por criar coisinhas que funcionam.
 
 Às vezes eu codifico.  
 Às vezes eu faço deploy rezando.  
 Na maioria das vezes dá certo. 🐍✨
 
-🇬🇧 Brazilian dev who loves building cute, useful and slightly chaotic things with code — websites, bots, automations, systems and Python experiments.
+🇬🇧 Brazilian dev who loves building cute, useful and slightly chaotic things with code.
 
 Sometimes I code.  
 Sometimes I deploy and pray.  
